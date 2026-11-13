@@ -1,0 +1,43 @@
+{
+  "known_subscriptions": [
+    "netflix",
+    "hulu",
+    "spotify",
+    "disney",
+    "amazon prime",
+    "google one"
+  ],
+  "large_purchase_threshold": 250,
+  "debts": [
+    {
+      "name": "Capital One Visa",
+      "kind": "credit card",
+      "match": [
+        "capital one payment"
+      ],
+      "balance": 3200.0,
+      "apr": 27.49,
+      "minimum_payment": 85.0
+    },
+    {
+      "name": "Toyota auto loan",
+      "kind": "auto loan",
+      "match": [
+        "toyota financial"
+      ],
+      "balance": 14250.0,
+      "apr": 6.4,
+      "minimum_payment": 389.0
+    },
+    {
+      "name": "Navient student loan",
+      "kind": "student loan",
+      "match": [
+        "navient"
+      ],
+      "balance": 18900.0,
+      "apr": 5.05,
+      "minimum_payment": 220.0
+    }
+  ]
+}

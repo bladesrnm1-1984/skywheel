@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+report.md
+*.csv
+!sample_data/*.csv
